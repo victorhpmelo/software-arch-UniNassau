@@ -1,0 +1,17 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health
+  endpoint:
+    health:
+      show-details: never
+
+spring:
+  datasource:
+    url: jdbc:postgresql://postgres:5432/finanjovem_db
+    username: admin
+    password: admin123
+    hikari:
+      connection-timeout: 60000
+      maximum-pool-size: 5
