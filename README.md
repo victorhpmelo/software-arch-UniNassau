@@ -162,8 +162,7 @@ Base URL: `http://localhost:8080/api`
 ## Disciplina
 
 - **Projeto**: FinanJovem — Controle Financeiro para Jovens Empreendedores
-- **Base**: [victorhpmelo/SysMod](https://github.com/victorhpmelo/SysMod)
-- **Disciplina**: Análise e Modelagem de Sistemas
+- **Disciplina**: Arquitetura de software e computação em nuvem
 
 ## Licença
 
